@@ -1,0 +1,6 @@
+framework module Pods_ScreenOfMessage {
+  umbrella header "Pods-ScreenOfMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}
